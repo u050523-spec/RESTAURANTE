@@ -1,0 +1,6 @@
+{
+  "name": "Sabor y Mesa",
+  "description": "Aplicación de restaurante con reserva de 8 mesas y menú interactivo en tiempo real con stock de platillos sincronizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
